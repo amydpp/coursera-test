@@ -6,8 +6,6 @@
  window.sillyNames = sillyNames;
   }) (window);
 
-byeSpeaker.speak(sillyNames.name);
-helloSpeaker.speak(sillyNames.name);
 
 
 for (var i = 0; i < sillyNames.name.length -1; i++){
