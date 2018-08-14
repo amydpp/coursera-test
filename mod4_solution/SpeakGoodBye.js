@@ -6,6 +6,5 @@
 	}
 
 	window.byeSpeaker = byeSpeaker;
-
 	
 })(window);
