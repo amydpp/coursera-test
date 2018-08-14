@@ -8,19 +8,19 @@
 
 
 
-for (var i = 0; i < sillyNames.name.length -1; i++){
-console.log(helloSpeaker.speak(sillyNames.name[i]));
+// for (var i = 0; i < sillyNames.name.length -1; i++){
+// console.log(helloSpeaker.speak(sillyNames.name[i]));
 
-};
-
-
-for (var i = 0; i < sillyNames.name.length -1; i++){
-
-console.log(byeSpeaker.speak(sillyNames.name[i]));
+// };
 
 
+// for (var i = 0; i < sillyNames.name.length -1; i++){
 
-};
+// console.log(byeSpeaker.speak(sillyNames.name[i]));
+
+
+
+// };
 
 (function () {
 
