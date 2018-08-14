@@ -1,10 +1,10 @@
-// (function (window) {
-//   var sillyNames = {};
-//   sillyNames.name = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+(function (window) {
+  var sillyNames = {};
+  sillyNames.name = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 
-//  window.sillyNames = sillyNames;
-//   }) (window);
+ window.sillyNames = sillyNames;
+  }) (window);
 
 
 
