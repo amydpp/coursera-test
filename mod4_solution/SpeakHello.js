@@ -7,4 +7,4 @@
 
 // window.helloSpeaker = helloSpeaker;
 
-})(window);
+})();
